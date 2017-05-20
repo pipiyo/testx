@@ -1,7 +1,7 @@
 'use strict'
 
 const express = require('express')
-const port = process.env.PORT || 3001
+const port = process.env.PORT || 80
 const http = require('http')
 const path = require('path')
 
